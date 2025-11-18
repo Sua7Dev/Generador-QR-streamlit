@@ -1,3 +1,20 @@
+__pychache__
+.venv
+*.pyc
+*.db
+.spec
+*.spec
+
+
+# Archivos y carpetas de Python
+*.pyc
 __pycache__/
-*pyc
-.vscode/
+*.pyd
+*.$py.class
+build/
+dist/
+
+# Entornos virtuales (el más importante)
+venv/
+env/
+.venv/
